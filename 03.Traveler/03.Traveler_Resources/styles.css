@@ -15,7 +15,7 @@ p{
 
 /* first page */
 body > article > div.main-container-for-image{
-    background-image: url('/images/poster.jpg') ;
+    background-image: url('../03.Traveler_Resources/images/poster.jpg') ;
     background-size: cover;
     background-position: top center;
     background-repeat: no-repeat;
@@ -28,7 +28,7 @@ body > article > div.main-container-for-image{
     height: 110px;
     overflow: hidden;
     text-indent: -200vw;
-    background-image: url('/images/logo.webp');
+    background-image: url('../03.Traveler_Resources/images/logo.webp');
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -211,7 +211,7 @@ body > article > div.footer > div > footer > div{
     height: 110px;
     overflow: hidden;
     text-indent: -200vw;
-    background-image: url('/images/logo.webp');
+    background-image: url('../03.Traveler_Resources/images/logo.webp');
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
